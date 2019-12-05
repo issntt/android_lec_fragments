@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Amazing App</string>
+    <string name="details_button">Show details</string>
+
+    <string name="title">This is the title place holder</string>
+    <string name="description">This is the description placeholder. In reality, this description will be retrieved dynamically from some file or database.</string>
+</resources>
